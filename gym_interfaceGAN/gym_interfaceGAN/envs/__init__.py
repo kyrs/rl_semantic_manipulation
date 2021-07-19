@@ -1,0 +1,1 @@
+from gym_interfaceGAN.envs.InterfaceGanEnv import InterfaceGanEnv
